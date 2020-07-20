@@ -1,5 +1,7 @@
 # 01 HTML CSS Git: Code Refactor
 
+Deployed to GitHub Pages at: https://annkarpinski.github.io/code_refactor/
+
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
 Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
@@ -36,9 +38,10 @@ THEN I find a concise, descriptive title
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+- The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-- - -
+---
+
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
